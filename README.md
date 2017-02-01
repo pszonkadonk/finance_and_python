@@ -1,1 +1,1 @@
-Utilizing this project to familiarize myself with Python scientific programming packages. 
+Utilizing this project to familiarize myself with Python scientific programming packages for my Natural Language Processing class
